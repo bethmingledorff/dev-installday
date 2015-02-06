@@ -5,5 +5,5 @@ puts "bbq pulled pork"
 puts "bethmingledorff"
 puts "did I save it?"
 
-puts "how is print different"
+puts "how is print different from puts"
 print "This is how"
