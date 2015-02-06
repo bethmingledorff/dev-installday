@@ -4,3 +4,6 @@
 puts "bbq pulled pork"
 puts "bethmingledorff"
 puts "did I save it?"
+
+puts "how is print different"
+print "This is how"
